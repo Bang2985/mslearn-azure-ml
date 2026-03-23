@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Explore developer tools for workspace interaction'
+  title: Explore developer tools for workspace interaction
+  description: Learn how to use various tools to interact with the Azure Machine Learning workspace.
+  duration: 5 minutes
+  level: 400
+  islab: true
 ---
 
 # Explore developer tools for workspace interaction

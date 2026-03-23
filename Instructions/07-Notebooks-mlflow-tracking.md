@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Track model training in notebooks with MLflow'
+  title: Track model training in notebooks with MLflow
+  description: Learn to use MLflow within a notebook running on a compute instance to log model training.
+  duration: 10 minutes
+  level: 400
+  islab: true
 ---
 
 # Track model training in notebooks with MLflow

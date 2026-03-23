@@ -1,6 +1,10 @@
 ---
 lab:
-    title: 'Deploy a model to a managed online endpoint'
+  title: Deploy a model to a managed online endpoint
+  description: Deploy an MLflow model to a managed online endpoint, and test it on sample data.
+  duration: 10 minutes
+  level: 400
+  islab: true
 ---
 
 # Deploy a model to a managed online endpoint
